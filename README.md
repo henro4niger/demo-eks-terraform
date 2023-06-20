@@ -1,2 +1,5 @@
-# demo-eks-terraform
-A simple kubernetes terraform script to provision eks cluster with load balancer controller
+# Create a Demo EKS cluster with load balancer controller using Terraform
+---
+Note, This is only for development use, a production deployment should have more variables and consist of modules
+
+----
